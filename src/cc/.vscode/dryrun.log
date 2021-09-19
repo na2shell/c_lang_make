@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/ren/code/c_lang_make/src/9cc'
+make: `9cc' is up to date.
+make: Leaving directory `/Users/ren/code/c_lang_make/src/9cc'
+ 

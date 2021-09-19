@@ -20,4 +20,4 @@ docker exec -it my-cc-run bash
 -- 以後docker内での作業 --
 
 cd /home/src/cc
-make test #testの結果が表示される。実行ファイルはtmpなので、tmpに引数として式を与えても良い。
+make test 
